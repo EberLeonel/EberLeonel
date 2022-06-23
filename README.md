@@ -3,6 +3,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EberLeonel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EberLeonel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div>
-    ![Snake animation](https://github.com/EberLeonel/EberLeonel/blob/output/github-contribution-grid-snake.svg)
+<div div align="center">
+   <img src="https://github.com/EberLeonel/EberLeonel/blob/output/github-contribution-grid-snake.svg"/>
 </div>
